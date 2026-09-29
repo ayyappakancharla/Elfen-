@@ -263,30 +263,6 @@ To reproduce the main experiment:
 Package versions and external resource versions should be recorded
 because resource availability and coverage can affect the output.
 
-## Poster Sections
-
-The poster is organized around:
-
--   **Hypothesis / Research Questions**
--   **Methodology**
--   **Results**
-    -   Feature coverage and experimental output
-    -   External resource dependencies
-    -   Missingness
-    -   Flesch Reading Ease and implementation discrepancy
--   **Limitations / Interpretation**
--   **Conclusion**
--   **References**
-
-## Main Poster Figures
-
-The Results section uses:
-
-1.  **Feature Distribution Across 11 Linguistic Areas**
-2.  **ELFEN Experimental Output: 1,106 DataFrame Columns**
-3.  **External Resource Dependencies & Missingness**
-4.  **Distribution of Flesch Reading Ease Scores**
-
 ## Academic Note
 
 The results reported here describe the specific ELFEN version,
